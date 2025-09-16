@@ -1,5 +1,5 @@
 # KU-EECS581
-This organization is a centralized area for our team project for EECS 581 - Software Engineering 2 at the University of Kansas (KU).
+This organization is a centralized area for our team projects for EECS 581 - Software Engineering 2 at the University of Kansas (KU).
 
 ## Group & Team Structure
 
