@@ -10,3 +10,8 @@ This organization is a centralized area for our team project for EECS 581 - Soft
 - **Quality Assurance & Testing Lead:** [Andrew Reyes](https://github.com/Areyes42)
 - **Documentation & Communication Lead:** [Ty Farrington](https://github.com/TyFarrington)
 
+## Projects
+We are working on 3 main projects this semester:
+1. [Project 1 - Minesweeper](https://github.com/aidenhburke/eecs581_minesweeper)
+2. [Project 2 - Maintenance](https://github.com/KU-EECS581/Project-2)
+3. [Project 3 - Free Choice](https://github.com/KU-EECS581/Project-3)
