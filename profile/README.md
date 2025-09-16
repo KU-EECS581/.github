@@ -3,7 +3,7 @@ This organization is a centralized area for our team projects for EECS 581 - Sof
 
 ## Group & Team Structure
 
-- **Scrum Master/TA:** Huy Tran
+- **Scrum Master/TA:** [Huy Dinh Tran](https://huydinhtran.github.io/)
 - **Project Coordinator:** [Riley Meyerkorth](https://github.com/m-riley04)
 - **Backend Developer:** [Aiden Burke](https://github.com/aidenhburke)
 - **Backend Developer:** [Brett Suhr](https://github.com/BrettSuhr)
